@@ -1,4 +1,11 @@
 # Sales and Customer -Dashboard (Done by Qlik Sense)
+![image](https://user-images.githubusercontent.com/24377958/229706818-55a732f6-4f18-4ad7-917a-a024b687ee49.png)
+![image](https://user-images.githubusercontent.com/24377958/229706910-db0a1d8d-ce11-421d-8c5e-08acfc0b23ed.png)
+![image](https://user-images.githubusercontent.com/24377958/229706970-433c8317-b409-4a7f-adb7-2280d61cc56b.png)
+![image](https://user-images.githubusercontent.com/24377958/229707176-d866e1f9-d4c6-4b33-a775-deb2c15b0d5b.png)
+![image](https://user-images.githubusercontent.com/24377958/229707250-e2860959-0a43-46de-a16f-62c150ae8a22.png)
+![image](https://user-images.githubusercontent.com/24377958/229707320-4a934c04-2621-429e-aeaf-190e789c6e80.png)
+
 # Table of Contents
 
 - [Problem Statement](https://github.com/jiang54/Sales-and-Customer-Dashboard#problem-statement)
