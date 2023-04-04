@@ -132,10 +132,10 @@ Furthermore, I use the storying-telling to make a presentation.
 
 # Insights
 
-- The number of transactions has been relatively flat from 2012 to 2014, with a profit margin of 41.28%.
-- The United States accounts for 45.5% of our transactions, followed by the UK at 26.9% and Japan at 11.3%.
-- The main products being sold are vegetables, fruit, canned shrimp, and meat - mainly everyday food items. If categorized broadly, the main categories are produce, canned products, deli, and frozen foods.
-- The number of large customers is relatively small, with the vast majority being small customers.
+- The relatively flat number of deals and stable margins may imply that the company maintained a solid business strategy and market share during this time frame. However, if the company wishes to increase the number of transactions and profit margins, it may need to adopt some marketing strategies and innovative products to expand market share.
+- The United States and the United Kingdom are the main trading countries, which may be related to the economic development and market size of these countries. In the future, the company may consider expanding to other regions, especially the Asian market, to gain a larger market share.
+- Vegetables, fruits, canned shrimp and meat were the top-selling product categories. This shows that consumers have high demand for healthy food and convenience food. - The company can further expand these product lines and increase varieties and specifications to meet the needs of different consumers.
+- Most of the customers are small customers, which may be due to the fact that the company's popularity and brand reputation in the market are not high enough. In order to expand the customer base, companies can adopt some marketing strategies, such as discounts and promotions, to attract more customers and increase brand awareness.
 # Data Source
 
 Qlik Example Dataset
