@@ -12,7 +12,7 @@
 - [Data Sourcing](https://github.com/jiang54/Sales-and-Customer-Dashboard#data-sourcing)
 - [Data Preparation](https://github.com/jiang54/Sales-and-Customer-Dashboard#data-preparation)
 - [Data Modeling](https://github.com/jiang54/Sales-and-Customer-Dashboard#data-modeling)
-- [Data Analysis](https://github.com/jiang54/Sales-and-Customer-Dashboard#data-visualization)
+- [Data Analysis](https://github.com/jiang54/Sales-and-Customer-Dashboard#data-analysis)
 - [Data Visualization](https://github.com/jiang54/Sales-and-Customer-Dashboard#Data-Visualization)
 - [Insights](https://github.com/jiang54/Sales-and-Customer-Dashboard#insights)
 - [Data Source](https://github.com/jiang54/Sales-and-Customer-Dashboard#data-source)
@@ -121,7 +121,8 @@ I show the KPIs, e.g. total sales, total margin, profit margin. Furthermore, I a
 ![image](https://user-images.githubusercontent.com/24377958/229707250-e2860959-0a43-46de-a16f-62c150ae8a22.png)
 ![image](https://user-images.githubusercontent.com/24377958/229707320-4a934c04-2621-429e-aeaf-190e789c6e80.png)
 
-Furthermore, I use the storying-telling to make a presentation.
+
+## Furthermore, I use the storying-telling to make a presentation.
 
 ![image](https://user-images.githubusercontent.com/24377958/229707728-03cdcec4-dbf0-4dc3-b6a0-776328db09b6.png)
 ![image](https://user-images.githubusercontent.com/24377958/229707762-c0e8c349-ce28-4f1b-9933-926a59b4216c.png)
